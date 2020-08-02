@@ -1,0 +1,2 @@
+# aravindcoin
+My crypto currency
